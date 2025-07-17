@@ -1,2 +1,2 @@
 # DASHBOARD-BI
-This repository showcases my initial foray into Power BI dashboard creation. Developed entirely through a hands-on, trial-and-error methodology without prior formal training, these projects were instrumental in building my foundational understanding of data cleaning, modeling, and visualization within Power BI. They represent the practical application of iterative problem-solving in a BI context.
+Power BI portfolio demonstrating skills in data modeling, DAX, and visualization, built on a foundation of data preparation using Excel and MS SQL.
